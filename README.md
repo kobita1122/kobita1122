@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kobita
+#  Hi there 💖 I'm Kobita
 
 🚀 Passionate Developer | Backend & System Design Enthusiast  
 💡 Focused on building scalable, secure, and production-ready applications
